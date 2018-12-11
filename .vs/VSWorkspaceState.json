@@ -5,6 +5,10 @@
     "\\models",
     "\\routes"
   ],
+<<<<<<< HEAD
   "SelectedNode": "\\controllers\\product.controller.js",
+=======
+  "SelectedNode": "\\README.md",
+>>>>>>> 4193d9258eb6091605089b2b649c480d3ea1d312
   "PreviewInSolutionExplorer": false
 }
